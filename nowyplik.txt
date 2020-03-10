@@ -1,0 +1,10 @@
+2b. Mamy na komputerze  już istniejące repozytorium
+
+    zainicjowanie repozytorium o nazwie local_repo2 w katalogu domowym
+    dodanie niepustego pliku do repozytorium
+    zatwierdzenie zmian
+    utworzenie repozytorium o nazwie test_repo2 w serwisie
+    dodanie zdalnego repozytorium
+    wysłanie zmian do hostowanego repozytorium
+
+
