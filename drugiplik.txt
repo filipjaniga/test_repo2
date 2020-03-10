@@ -1,0 +1,10 @@
+2a. Zaczynamy od zera
+
+    utworzenie repozytorium o nazwie test_repo1 w serwisie
+    sklonowanie hostowanego repozytorium (pustego) na maszynę wirtualną do katalogu domowego
+
+    sprawdzenie skonfigurowanych zdalnych repozytoriów
+
+    dodanie niepustego pliku do sklonowanego repozytorium
+    zatwierdzenie zmian
+    wysłanie zmian do hostowanego repozytorium
